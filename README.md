@@ -48,8 +48,5 @@ python app/app.py
 - Flask
 - jupyter
 
-## Screenshots
-(Add your screenshots here)
-
 ## License
 MIT License
