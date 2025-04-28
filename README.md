@@ -47,6 +47,3 @@ python app/app.py
 - nltk
 - Flask
 - jupyter
-
-## License
-MIT License
